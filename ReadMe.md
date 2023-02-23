@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=C5F2tkX1Cis
 ### Hardware:
 - RAK4631 - MCU
 - RAK5005-O - Baseboard
+- RAK13002 - Expansion board
 - Three LEDs and three 1K resistors
 - Three 3V relay Power Switch Boards - Module Opto Isolation High-Level Trigger for IOT
 - HiLetgo AC-DC 220V to 3.3V Isolated Switching Power Supply Module Board
