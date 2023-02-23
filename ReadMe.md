@@ -1,4 +1,4 @@
-# Helium_LoRa_Outlet_Control
+# Helium LoRa Multi-Outlet Control
 Docs 2-22-23 V1 (For questions or comments:  Stephen Witty switty@level500.com)  
 
 ### Project Overview:
